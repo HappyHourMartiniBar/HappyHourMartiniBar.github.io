@@ -1188,6 +1188,14 @@
 		margin-bottom: 0;
 	}
 
+  .alert {
+    font-size: 1.25rem;
+    color: #f88002;
+    border: 2px dotted #f88002;
+    text-align: center;
+    padding: 0.5em 0;
+  }
+
 /* Image */
 
   .sm-logo {
