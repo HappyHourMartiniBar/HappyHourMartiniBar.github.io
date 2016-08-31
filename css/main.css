@@ -2404,6 +2404,10 @@
 				padding: 1em 20px 1em 20px;
 			}
 
+      .menu-wrapper > p {
+        text-align: center;
+      }
+
 		/* Header */
 
 			#header {
