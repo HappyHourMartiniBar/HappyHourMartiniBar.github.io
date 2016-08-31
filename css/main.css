@@ -1121,12 +1121,12 @@
 		}
 
 		a:hover {
-			color: #ed786a;
+			color: #f88002;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
 			a:hover strong {
-				color: #ed786a;
+				color: #f88002;
 			}
 
 	strong, b {
@@ -1474,7 +1474,7 @@
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #ed786a;
+		background: #f88002;
 		color: #fff !important;
 		text-transform: uppercase;
 		border-radius: 4px;
@@ -1499,7 +1499,7 @@
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #ed786a;
+			background: #f88002;
 		}
 
 		input[type="button"].alt,
@@ -1611,7 +1611,7 @@
 		#header h1 {
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #ed786a;
+			color: #f88002;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 		}
 
@@ -1966,7 +1966,7 @@
 					-webkit-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 					-ms-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 					transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
-					color: #ed786a;
+					color: #f88002;
 				}
 
 		/* Banner */
