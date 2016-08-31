@@ -2428,6 +2428,10 @@
         text-align: center;
       }
 
+      .menu-wrapper li {
+        text-align: center;
+      }
+
 		/* Header */
 
 			#header {
