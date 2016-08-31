@@ -1242,6 +1242,16 @@
 				width: auto;
 			}
 
+  /* Logo */
+
+  .lg-logo {
+    width: auto;
+    height: auto;
+    max-width: 700px;
+    max-height: 700px;
+    margin: 0;
+  }
+
 /* List */
 
 	ul.default {
@@ -1271,6 +1281,7 @@
 		}
 
 			ul.links li:first-child {
+        border-left: none;
 				margin-left: 0;
 				padding-left: 0;
 			}
