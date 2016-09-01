@@ -1188,6 +1188,18 @@
 		margin-bottom: 0;
 	}
 
+  #hhtripadvisor {
+    margin-top: 2em;
+  }
+
+  #hhtripadvisor .border {
+    border: 2px solid black !important;
+  }
+
+  #hhtripadvisor a {
+    border: none;
+  }
+
   .alert {
     font-size: 1.25rem;
     color: #f88002;
