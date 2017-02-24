@@ -1274,12 +1274,6 @@
 
 /* List */
 
-  ul.none {
-    list-style-type: none;
-    margin: 0;
-  }
-
-
 	ul.default {
 		list-style: disc;
 		margin-left: 1em;
